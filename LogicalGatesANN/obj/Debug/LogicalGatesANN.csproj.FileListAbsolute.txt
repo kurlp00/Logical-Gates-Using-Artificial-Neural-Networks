@@ -1,0 +1,5 @@
+c:\users\kurl\documents\visual studio 2013\Projects\LogicalGatesANN\LogicalGatesANN\bin\Debug\LogicalGatesANN.exe.config
+c:\users\kurl\documents\visual studio 2013\Projects\LogicalGatesANN\LogicalGatesANN\bin\Debug\LogicalGatesANN.exe
+c:\users\kurl\documents\visual studio 2013\Projects\LogicalGatesANN\LogicalGatesANN\bin\Debug\LogicalGatesANN.pdb
+c:\users\kurl\documents\visual studio 2013\Projects\LogicalGatesANN\LogicalGatesANN\obj\Debug\LogicalGatesANN.exe
+c:\users\kurl\documents\visual studio 2013\Projects\LogicalGatesANN\LogicalGatesANN\obj\Debug\LogicalGatesANN.pdb
