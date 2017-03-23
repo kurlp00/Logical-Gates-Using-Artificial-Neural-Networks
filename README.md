@@ -13,7 +13,7 @@
 
 **Bad things about this project**
 - Input and output data needs to be interpolated. 
-- **Formula: _(1 - ((input - 0) / (1 - 0)) - 1)_**
+- Formula: _(1 - ((input - 0) / (1 - 0)) - 1)_
 
 **Screenshots**
 
